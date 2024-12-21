@@ -6,8 +6,15 @@
     <description>Recent content on Gvido Website</description>
     <generator>Hugo -- 0.140.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Dec 2024 18:48:51 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 21:22:47 +0200</lastBuildDate>
     <atom:link href="https://gvidas28.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apie mane</title>
+      <link>https://gvidas28.github.io/personal_info/aboutme/</link>
+      <pubDate>Sat, 21 Dec 2024 21:22:47 +0200</pubDate>
+      <guid>https://gvidas28.github.io/personal_info/aboutme/</guid>
+      <description>&lt;p&gt;Aš esu .NET programuotojas ir VILNIUS TECH studentas&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Antrasis įvertinimas</title>
       <link>https://gvidas28.github.io/posts/post2/</link>
