@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Gvido Website</title>
-    <link>Gvidas28.github.io/</link>
+    <link>https://gvidas28.github.io/</link>
     <description>Recent content on Gvido Website</description>
     <generator>Hugo -- 0.140.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 21 Dec 2024 18:48:51 +0200</lastBuildDate>
-    <atom:link href="Gvidas28.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gvidas28.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Antrasis įvertinimas</title>
-      <link>Gvidas28.github.io/posts/post2/</link>
+      <link>https://gvidas28.github.io/posts/post2/</link>
       <pubDate>Sat, 21 Dec 2024 18:48:51 +0200</pubDate>
-      <guid>Gvidas28.github.io/posts/post2/</guid>
+      <guid>https://gvidas28.github.io/posts/post2/</guid>
       <description>&lt;p&gt;Puikus website man labai patiko, apsilankysiu dar kartą. Ačiū. Paspauskite, kad skaityti daugiau.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Mano reakcija į šį website&#34; loading=&#34;lazy&#34; src=&#34;https://media.istockphoto.com/id/1455764286/photo/celebration-black-woman-and-excited-person-showing-happiness-and-winner-feeling-winning.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=N-dauzi4f7w0_gR1WnF4OKDj1Q3U7E-N1pQTyg00Db0=&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;showReaction&lt;/span&gt;() {
@@ -22,9 +22,9 @@
     </item>
     <item>
       <title>Pirmasis įvertinimas</title>
-      <link>Gvidas28.github.io/posts/post1/</link>
+      <link>https://gvidas28.github.io/posts/post1/</link>
       <pubDate>Sat, 21 Dec 2024 18:46:19 +0200</pubDate>
-      <guid>Gvidas28.github.io/posts/post1/</guid>
+      <guid>https://gvidas28.github.io/posts/post1/</guid>
       <description>&lt;p&gt;Puikus website, kurį sukūrė Gvidas Lukoševičius iš PRIf 21/3 grupės debesų kompiuterijos paskaitai.&lt;/p&gt;</description>
     </item>
   </channel>
