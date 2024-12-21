@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gvido Website</title>
+    <link>Gvidas28.github.io/</link>
+    <description>Recent content on Gvido Website</description>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Dec 2024 18:48:51 +0200</lastBuildDate>
+    <atom:link href="Gvidas28.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antrasis įvertinimas</title>
+      <link>Gvidas28.github.io/posts/post2/</link>
+      <pubDate>Sat, 21 Dec 2024 18:48:51 +0200</pubDate>
+      <guid>Gvidas28.github.io/posts/post2/</guid>
+      <description>&lt;p&gt;Puikus website man labai patiko, apsilankysiu dar kartą. Ačiū.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pirmasis įvertinimas</title>
+      <link>Gvidas28.github.io/posts/post1/</link>
+      <pubDate>Sat, 21 Dec 2024 18:46:19 +0200</pubDate>
+      <guid>Gvidas28.github.io/posts/post1/</guid>
+      <description>&lt;p&gt;Puikus website, kurį sukūrė Gvidas Lukoševičius iš PRIf 21/3 grupės debesų kompiuterijos paskaitai.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
